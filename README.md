@@ -8,7 +8,7 @@ and network-level fraud signals — techniques drawn from my fraud detection wor
 at Bangor Savings Bank.
 
 ## Dataset
-- **Source:** Bank Transaction Dataset (Kaggle)
+- **Source:** [Bank Transaction Dataset for Fraud Detection](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection) (Kaggle)
 - **Size:** 2,512 transactions across 500 accounts
 - **Fields:** Transaction amount, channel, location, IP address, login attempts, 
 account balance, customer demographics
