@@ -70,8 +70,4 @@ followed by a $1,077 transaction in December
 3. Create table and import CSV using schema in `bank_transaction_analysis.sql`
 4. Run queries sequentially — each builds on the previous findings
 
-## Background
-This project was built to demonstrate applied fraud detection analytics 
-using SQL, drawing on experience as a Security Champion and customer 
-analyst at Bangor Savings Bank where I developed Excel-based fraud 
-detection workflows analyzing transactional patterns.
+
